@@ -7,7 +7,7 @@ A production-ready API for automated detection and classification of Diabetic Re
 This project implements an end-to-end machine learning system for diabetic retinopathy screening, featuring a CNN-based classification model served through a scalable REST API. Designed for real-time inference with <200ms latency, it's deployed on AWS ECS with full CI/CD automation.
 
 🏗️ Architecture
-graph TD
+
     A[Client Request] --> B[FastAPI Server]
     B --> C[Image Preprocessing]
     C --> D[TensorFlow Model]
