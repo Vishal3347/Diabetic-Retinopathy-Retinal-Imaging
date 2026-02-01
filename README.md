@@ -77,12 +77,16 @@ Professional clinical labels from ophthalmologists
 
 Dataset Structure:
 
-text
 Grade 0: No DR
+
 Grade 1: Mild DR
+
 Grade 2: Moderate DR
+
 Grade 3: Severe DR
+
 Grade 4: Proliferative DR
+
 Access: EyePACS on Kaggle
 
 📚 Model Details
